@@ -2,7 +2,7 @@
 
 
 
-![Screenshot (62)](https://github.com/user-attachments/assets/f38943cb-1090-4b10-b3c8-53966c35b004)
+![Screenshot (65)](https://github.com/user-attachments/assets/dd4fc31b-6ba3-40b0-bbf7-70a83aad64dd)
 
 
 
@@ -12,7 +12,7 @@
 
 
 
-- [Demo Project](https://younes-namipoor.github.io/slider/)
+- [Demo Project](https://younes-namipoor.github.io/Crypto/)
 
 - Coded By Younes namipoor
 
